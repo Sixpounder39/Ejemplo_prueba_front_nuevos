@@ -6,18 +6,18 @@ Autor: Sixpounder39 (github)
 
 Construir una aplicación con React + Tailwind CSS que incluya:
 
-✅ Login fake con un usuario “admin”.
-✅ CRUD de usuarios (crear, editar, eliminar, listar).
-✅ Listado de posts desde una API pública con paginación y búsqueda.
-✅ Diseño responsivo, limpio y funcional.
+* ✅ Login fake con un usuario “admin”.
+* ✅ CRUD de usuarios (crear, editar, eliminar, listar).
+* ✅ Listado de posts desde una API pública con paginación y búsqueda.
+* ✅ Diseño responsivo, limpio y funcional.
 
 Libertad total: puedes usar el boilerplate sugerido con esta base o empezar desde cero, siempre con React + Vite + Tailwind. Si sabes usar TypeScript, lo puedes emplear.
 
 Extras opcionales (se valoran pero no son obligatorios):
 
-⭐ Mejoras visuales y de UX/UI
-⭐ Validaciones más completas
-⭐ Demo online (Netlify, Vercel, Render…) -> Este no sumará puntos, es totalmente opcional.
+* ⭐ Mejoras visuales y de UX/UI
+* ⭐ Validaciones más completas
+* ⭐ Demo online (Netlify, Vercel, Render…) -> Este no sumará puntos, es totalmente opcional.
 
 # 📋Requerimientos
 - - -
