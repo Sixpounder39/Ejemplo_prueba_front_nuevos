@@ -1,4 +1,6 @@
-🚀 Reto React/Vite + Tailwind (Nivel Junior)
+🚀 Reto React/Vite + Tailwind (Nivel Junior), elaborado para la empresa "Especialistas en Medios S.A. de C.V."
+
+Autor: Sixpounder39 (github)
 
 # Objetivo
 
